@@ -12,4 +12,4 @@ Just me :)
 
 ## Still reading?
 
-You have wasted enough time, you may go now 
+You have wasted enough time, you may go now.
